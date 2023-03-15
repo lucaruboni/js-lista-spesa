@@ -1,0 +1,55 @@
+
+
+main{
+    height: 100vh;
+    font-family: 'Dancing Script', cursive;
+    color: antiquewhite;
+    background-image: url(../img/fare-la-spesa-senza-glutine-al-supermercato.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y: auto;
+}
+
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 4rem;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+.btn_font{
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.col{
+    border: 1px solid black;
+    box-shadow: 0 0 15px;
+    background-color: #00000071;
+}
+
+
+li{
+    list-style-type: none;
+    align-self: center;
+    font-weight: 800;
+
+}
+
+ul{
+    height: 300px;
+    border: 1px balck;
+    border-style: double;
+    border-radius: 30px;
+    box-shadow: 0 0 10px gray;
+    font-size: 1.6rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #000000af;
+    overflow-y: auto;
+
+}
